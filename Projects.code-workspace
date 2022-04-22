@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\FCC Responsive Web Design Projects\\Tribute Page"
+		},
+		{
+			"path": "..\\..\\Tip Calculator"
+		},
+		{
+			"path": "..\\..\\Yahtzee"
+		},
+		{
+			"path": "..\\..\\Guess the Number Game"
+		},
+		{
+			"path": "..\\..\\FCC Responsive Web Design Projects\\Product Landing Page"
+		},
+		{
+			"path": "..\\..\\Sandbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Guess the Number Game"
+	}
+}
