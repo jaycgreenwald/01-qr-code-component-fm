@@ -27,7 +27,7 @@ TBD
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-B1u7o3BB5
 - Live Site URL: https://jaycgreenwald.github.io/qr-code-component-fm/
 - Repository Site URL: https://github.com/jaycgreenwald/qr-code-component-fm
 
