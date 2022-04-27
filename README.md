@@ -17,7 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-TBD
+This is an updated submission based on the feedback I received from user @kjdeepak. Changes:
+  - Removed references to height
+  - Used suggested centering technique to remove scrolling
+  - Tweaked space between h1 and p elements.
+  - Replaced the wrapper div with the <main> tag for more semantic HTML.
 
 ### Screenshot
 
@@ -30,6 +34,10 @@ TBD
 - Repository Site URL: https://github.com/jaycgreenwald/qr-code-component-fm
 
 ## My process
+
+I jumped in and started coding, but quickly was bogged down trying to tweak spacing.
+
+Read Chasing the Pixel-Perfect Dream, took a step back, measured everything in Illustrator, started CSS fresh, and ended with the code to position the component.
 
 ### Built with
 
@@ -50,6 +58,8 @@ I discovered the Responsive Design Mode in the Firefox Developer Tools.
 
 I learned how to commit changes to my repo and how to publish said repo using GitHub Pages. It was a great feeling seeing my code live on a webpage!
 
+Additionaly, I've learned a new technique to center (horizontal and vertical) a div.
+
 ### Continued development
 
 I would like to focus on responsive design techniques to get on more solid footing. Did I code a project that is responsive? I'm still not sure. The other area I need to work on is learning about accessibility. I don't know if my solution is accessible or how to make that determination. I'll also seek feedback which may provide additional areas of focus.
@@ -68,3 +78,5 @@ I would like to focus on responsive design techniques to get on more solid footi
 ## Acknowledgments
 
 Thank you to Frontend Mentor for providing this amazing resource and to the people who created the resources listed above.
+
+Thank you to user @kjdeepak who answered all three of my questions!
